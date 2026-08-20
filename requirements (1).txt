@@ -1,0 +1,8 @@
+# Streamlit >= 1.50 is required: the app uses st.navigation/st.Page for
+# multi-page routing and the width="stretch" sizing API.
+streamlit>=1.50
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+plotly>=5.20
